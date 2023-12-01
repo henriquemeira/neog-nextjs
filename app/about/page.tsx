@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        pageName="Sobre"
+        description="A Plataforma NeoG é uma solução de software abrangente projetada para otimizar a gestão e potencializar a eficiência operacional em ambientes empresariais. Desenvolvido com precisão e inovação, o NeoG é uma ferramenta versátil que oferece uma gama de funcionalidades integradas, destacando-se como um parceiro indispensável para organizações que buscam excelência em suas operações."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
